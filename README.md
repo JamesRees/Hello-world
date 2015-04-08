@@ -1,3 +1,3 @@
 # Hello-world
-First crack at creating a GitHub repository
+First crack at creating a GitHub repository.
 This could be entertaining...
